@@ -1,0 +1,28 @@
+##README
+#How this bad boy works....
+#Get the factor info - this is the list of names for the 561 vars
+#Set the column names for tidy data
+#Need to map the labels - joining the verbose names here
+
+#Other 30% of the data - rinse and repeat
+
+#Combine data from test/train
+
+#make Tidy summarized Data using mean to aggregate
+
+#Write Data to a text file
+
+## FOR CODE BOOK BREAK DOWN, SEE features and features_info
+## THOSE FILES ARE PROVIDED WITH THE FOLLOWING COPYWRITE/DISTRIBUTION INFO
+
+==================================================================
+Human Activity Recognition Using Smartphones Dataset
+Version 1.0
+==================================================================
+Jorge L. Reyes-Ortiz, Davide Anguita, Alessandro Ghio, Luca Oneto.
+Smartlab - Non Linear Complex Systems Laboratory
+DITEN - Università degli Studi di Genova.
+Via Opera Pia 11A, I-16145, Genoa, Italy.
+activityrecognition@smartlab.ws
+www.smartlab.ws
+==================================================================
